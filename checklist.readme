@@ -13,3 +13,22 @@ project. A project repo should only contain the project starter files plus any c
 you need to add to make the project run. If you need a reminder on how to use GitHub and 
 GitHub desktop, please refer back to the GitHub Desktop Reference.
 
+Status: Github initialized locally, remote set to: https://github.com/BrianBeeler/techdegree-project1
+
+3. Download the Project Files
+
+Download the project files in the “Download files” section on the right-hand side of this page,
+just above “Project Resources”. Once unzipped, the file and folder structure of the project 
+directory should not be changed. The files are linked together in a way that depends upon the 
+current directory structure, and making changes could disconnect the CSS and/or JavaScript from the HTML.
+
+Status: Files have been transfered to the current directory in the same structure as in the zipfile, 
+and have been pushed to Git.
+
+4 Carefully read the project instructions
+
+Writing code for a project is easier and more enjoyable if you divide the project into smaller, 
+more manageable parts that you can program one at a time. The project instructions divide the 
+project into individual sections, which are further broken up into even smaller steps. Read 
+through the complete list of instructions for a glimpse of how the individual sections come 
+together to complete the project. Then start at the beginning and follow along, one step at a time.
