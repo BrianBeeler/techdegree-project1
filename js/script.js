@@ -12,27 +12,29 @@ project 1 - A Random Quote Generator
 ***/
 
 let quotes = [
-
   {
-    quote: "",
-    source: "",
-    year: NaN
+    quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    source: "-Benjamin Franklin",
+    year: "~1776"
   }, {
-    quote: "",
-    source: "",
-    citation: ""
+    quote: "Whoever is happy will make others happy too.",
+    source: "-Anne Frank",
+    citation: "The Diary of a Young Girl"
   }, {
-    quote: "",
-    source: ""
+    quote: "In the end, it's not the years in your life that count. It's the life in your years.",
+    source: "-Abe Lincoln"
   }, {
-    quote: "",
-    source: ""
+    quote: "Only a life lived for others is a life worthwhile.",
+    source: "-Albert Einstein"
   }, {
-    quote: "",
-    source: ""
+    quote: "Asante sana squash banana",
+    source: "-Rafiki",
+    year: 1994,
+    citation: "The Lion King"
   }
-
 ]
+
+console.log("Quotes:","\n", quotes) 
 
 /***
  * `getRandomQuote` function
@@ -51,4 +53,4 @@ let quotes = [
  * DO NOT CHANGE THE CODE BELOW!!
 ***/
 
-document.getElementById('load-quote').addEventListener("click", printQuote, false);
+// document.getElementById('load-quote').addEventListener("click", printQuote, false);
